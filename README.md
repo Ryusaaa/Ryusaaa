@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="center">✨ Creating bugs since 2021<br>📚 I'm currently learning Java Script<br>🎯 Goals: Noting<br>🎲 Fun fact: i like macha</h6>
+<h6 align="center">✨ I'm a Junior Programmer<br>📚 I'm currently learning Gamedev And Backend Dev<br>🎯 Goals: To be Better<br>🎲 Fun fact: I like karina</h6>
 
 ###
 
@@ -28,6 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+
+
 
 
 </div>
