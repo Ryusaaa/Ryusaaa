@@ -2,21 +2,31 @@
 
 ###
 
-<h2 align="center">My name is Satria Ibnu and I'm a from Indonesia</h2>
+```javascript
+const profile = {
+  name: "Ryusaaa",
+  location: "Out Off From Nowhere",
+  currentQuest: "Want to Study in South Korean",
+  interests: [
+    "🎮 All Game",
+    "🎵 Music & Coding",
+    "📚 Continuous Learning",
+    "🏁 MotoGP & Formula 1"
+  ],
+  dailyBuffs: [
+    "☕ Coffee",
+    "🎧 K-Pop!!",
+    "🚬 Cigarette",
+    "👩🏻 Park SoHyun"
+  ],
+  commandPhilosophy: "If Doesn't work, Solve it",
+  target: "Can copypaste without error",
+  achievements: [
+    "🏆 Can Speak Korean (Just Little Bit)"
+  ]
+};
+```
 
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<h6 align="center">✨ I'm a Junior Programmer<br>📚 I'm currently learning Gamedev And Backend Dev<br>🎯 Goals: To be Better<br>🎲 Fun fact: I like karina</h6>
-
-###
-
-<h2 align="center">I code with</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
