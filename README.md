@@ -29,8 +29,8 @@ const profile = {
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rifandiysf&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifandiysf&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanuuu24&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanuuu24&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 
