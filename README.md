@@ -5,10 +5,10 @@
 ```javascript
 const profile = {
   name: "Ryusaaa",
-  status: "I'm a Junior Backend Developer and Junior GameDev",
-  about: "A Person Who like playing all genre games and explorer!",
+  jobStatus: "Junior Backend Developer and Junior GameDev",
+  about: "A Gamers, Coders, And Teenagers!",
   location: "Out Off From Nowhere",
-  currentQuest: "Want to Study in South Korean",
+  currentQuest: "Want to be A better person",
   interests: [
     "🎮 Game",
     "🎵 Music",
