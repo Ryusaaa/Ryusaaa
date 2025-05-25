@@ -5,7 +5,7 @@
 ```javascript
 const profile = {
   name: "Ryusaaa",
-  jobStatus: "Junior Backend Developer and Junior GameDev",
+  jobStatus: "Junior Backend Developer & Junior Game Devloper",
   about: "A Gamers, Coders, And Teenagers!",
   location: "Out Off From Nowhere",
   currentQuest: "Want to be A better person",
@@ -45,6 +45,8 @@ const profile = {
 </div>
 
 ###
+## Framework Website
+Laravel, ReactJs, NextJs.
 
 
 ## Toolkit
