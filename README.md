@@ -1,6 +1,3 @@
-<h2 align="center">Hey 👋 What's up?</h2>
-
-###
 
 ```javascript
 const profile = {
@@ -67,6 +64,8 @@ Laravel, ReactJs, NextJs.
 
 
 ###
+
+![star-history](https://api.lucabubi.me/chart?username=Sanuuu24&repository=REPOSITORY&color=COLOR)
 
 
 
