@@ -65,7 +65,7 @@ Laravel, ReactJs, NextJs.
 
 ###
 
-![star-history](https://api.lucabubi.me/chart?username=Sanuuu24&repository=REPOSITORY&color=COLOR)
+![star-history](https://api.lucabubi.me/chart?username=Sanuuu24&repository=CV-Ryusaaa&color=Blue)
 
 
 
