@@ -12,7 +12,7 @@ const profile = {
   jobStatus: "Junior Backend Developer & Junior Game Devloper",
   about: "A Gamers, Coders, And Teenagers!",
   location: "Out Off From Nowhere",
-  currentQuest: "Want to be A better person",
+  currentQuest: "learn Back-end Roadmap, Hangeul Language and Up my skill in english too",
   interests: [
     "🎮 Game",
     "🎵 Music",
@@ -23,12 +23,11 @@ const profile = {
   dailyBuffs: [
     "☕ Coffee",
     "🎧 K-Pop!!",
-    "👩🏻 Park SoHyun"
   ],
-  commandPhilosophy: "If Doesn't work, Solve it",
-  target: "Can copypaste without error",
+  commandPhilosophy: "Everything can be solve",
+  target: "Can study abroad in 2027 ",
   achievements: [
-    "🏆 Can Speak Korean (Just Little Bit)"
+    "🏆 Can play all genre games"
   ]
 };
 ```
