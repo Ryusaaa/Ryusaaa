@@ -9,7 +9,7 @@
 ```javascript
 const profile = {
   name: "Ryusaaa",
-  jobStatus: "Junior Fullstack Web Developer & Junior Game Devloper",
+  jobStatus: "Junior Web Developer & Junior Game Devloper",
   about: "A Gamers, Coders, And Teenagers!",
   location: "Out Off From Nowhere",
   currentQuest: "Grinding Certificate, Hangeul Language and Up my skill in english too, and Upskill for my portofolio",
