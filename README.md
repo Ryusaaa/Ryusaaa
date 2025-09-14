@@ -9,10 +9,10 @@
 ```javascript
 const profile = {
   name: "Ryusaaa",
-  jobStatus: "Junior Web Developer & Junior Game Devloper",
+  jobStatus: "Web Developer",
   about: "A Gamers, Coders, And Teenagers!",
   location: "Out Off From Nowhere",
-  currentQuest: "Grinding Certificate, Hangeul Language and Up my skill in english too, and Upskill for my portofolio",
+  currentQuest: "Grinding Certificate, Up my level in korean language, and Upskill for my portofolio",
   interests: [
     "🎮 Game",
     "🎵 Music",
@@ -38,7 +38,7 @@ const profile = {
 <div align="center">
     <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,vite,express,nextjs" /></br>
     <img src="https://skillicons.dev/icons?i=php,nodejs,cs,go,javascript" /></br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,vscode,unity,godot,visualstudio" /></br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,vscode,visualstudio" /></br>
 </div>
 
 
