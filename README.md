@@ -37,7 +37,7 @@ const profile = {
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,vite,express,nextjs" /></br>
-    <img src="https://skillicons.dev/icons?i=php,nodejs,cs,go,javascript, py" /></br>
+    <img src="https://skillicons.dev/icons?i=php,nodejs,cs,go,javascript,py" /></br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,vscode,visualstudio" /></br>
 </div>
 
