@@ -2,8 +2,9 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ryusaaa;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=28&center=true&vCenter=true&width=600&height=80&duration=4000&color=FF0000&background=000000&lines=Hi+There!;+I'm+Ryusaaa;" />
 </h1>
+
 
 ###
 ```javascript
