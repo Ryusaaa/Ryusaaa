@@ -9,26 +9,11 @@
 ```javascript
 const profile = {
   name: "Ryusaaa",
-  jobStatus: "Web Developer",
-  about: "A Gamers, Coders, And Teenagers!",
+  jobStatus: "Fullstack Developer",
   location: "Out Off From Nowhere",
-  currentQuest: "Grinding Certificate, Up my level in korean language, and Upskill for my portofolio",
-  interests: [
-    "🎮 Game",
-    "🎵 Music",
-    "📚 Continuous Learning",
-    "🏁 MotoGP & Formula 1"
-    "🇰🇷 South Korea"
-  ],
-  dailyBuffs: [
-    "☕ Coffee",
-    "🎧 K-Pop!!",
-  ],
+  currentQuest: "Developing Skills in Tech and Language",
   commandPhilosophy: "Everything can be solve",
-  target: "Can study abroad in 2027 ",
-  achievements: [
-    "🏆 Can play all genre games"
-  ]
+  target: "Achieve GKS Schorlaship 2027",
 };
 ```
 
@@ -37,7 +22,7 @@ const profile = {
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,vite,express,nextjs" /></br>
-    <img src="https://skillicons.dev/icons?i=php,nodejs,cs,go,javascript,py" /></br>
+    <img src="https://skillicons.dev/icons?i=php,nodejs,cs,go,javascript,typescript,py," /></br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,vscode,visualstudio" /></br>
 </div>
 
