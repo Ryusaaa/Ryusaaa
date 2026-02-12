@@ -21,8 +21,7 @@ const profile = {
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,vite,express,nextjs" /></br>
-    <img src="https://skillicons.dev/icons?i=php,nodejs,cs,go,javascript,typescript,py," /></br>
+    <img src="https://skillicons.dev/icons?i=php,nodejs,cs,go,javascript,typescript,py,dart" /></br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,vscode,visualstudio" /></br>
 </div>
 
