@@ -23,7 +23,7 @@ const profile = {
 
   <!-- Languages -->
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,cs,go,javascript,typescript,py,dart" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=php,cs,go,javascript,typescript,py,dart" /><br/><br/>
 
   <!-- Frameworks & Libraries -->
   <h3>Frameworks & Libraries</h3>
