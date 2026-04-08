@@ -28,7 +28,7 @@ const profile = {
   <!-- Frameworks & Libraries -->
   <h3>Frameworks & Libraries</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flutter" />
-  <img src="https://skillicons.dev/icons?i=elysia" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=elysia,express" /><br/><br/>
 
   <!-- Database & Tools -->
   <h3>Database & Tools</h3>
