@@ -10,7 +10,7 @@
 ```javascript
 const profile = {
   name: "Ryusaaa",
-  jobStatus: "Fullstack Developer",
+  jobStatus: "Junior Fullstack Developer",
   location: "Somewhere",
   currentQuest: "Developing Skills in Tech and Language",
   commandPhilosophy: "Everything can be solve and Don't make something too complicated",
