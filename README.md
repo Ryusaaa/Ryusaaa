@@ -14,7 +14,7 @@ const profile = {
   location: "Somewhere",
   currentQuest: "Developing Skills in Tech and Language",
   commandPhilosophy: "Everything can be solve and Don't make something too complicated",
-  target: "Achieve GKS Schorlaship 2027",
+  target: "Achieve GKS-U Schorlaship",
 };
 ```
 
