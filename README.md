@@ -2,14 +2,14 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=28&center=true&vCenter=true&width=600&height=80&duration=4000&color=FF0000&lines=Hi+There!;+I'm+Ryusaaa;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=28&center=true&vCenter=true&width=600&height=80&duration=4000&color=FF0000&lines=Hi+There!;+I'm+Aru;" />
 </h1>
 
 
 ###
 ```javascript
 const profile = {
-  name: "Ryusaaa",
+      name: "Aru",
   jobStatus: "Junior Fullstack Developer",
   location: "Somewhere",
   currentQuest: "Developing Skills in Tech and Language",
